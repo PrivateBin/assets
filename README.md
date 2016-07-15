@@ -1,2 +1,3 @@
-# assets
-Source of assets (images, ...) used for PrivateBin
+# PrivateBin assets
+
+Content coming soon™...
