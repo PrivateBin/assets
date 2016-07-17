@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0175267"
-     inkscape:cx="261.10943"
+     inkscape:cx="46.37305"
      inkscape:cy="318.52798"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -108,21 +108,13 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>rugk</dc:title>
+          </cc:Agent>
+        </dc:rights>
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
