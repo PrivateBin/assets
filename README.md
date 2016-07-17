@@ -1,3 +1,3 @@
 # PrivateBin assets
 
-Content coming soon™...
+Contain all images created for PrivateBin.
