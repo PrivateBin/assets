@@ -16,10 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="BaseSmall.svg"
-   inkscape:export-filename="D:\Users\***REMOVED***\GitHub\assets\images\base32.png"
-   inkscape:export-xdpi="5.7600002"
-   inkscape:export-ydpi="5.7600002">
+   sodipodi:docname="baseSmall.svg"
+   inkscape:export-filename="D:\Users\***REMOVED***\GitHub\assets\images\baseSmall32.png"
+   inkscape:export-xdpi="5.7599998"
+   inkscape:export-ydpi="5.7599998">
   <defs
      id="defs4">
     <linearGradient
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0175267"
-     inkscape:cx="148.76454"
+     inkscape:cx="92.746354"
      inkscape:cy="245.03573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -101,7 +101,7 @@
      id="layer1"
      transform="translate(0,-552.36219)">
     <path
-       style="opacity:1;fill:#ffff57;fill-opacity:1;stroke:#000000;stroke-width:20.20498466;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:20.20498466;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 251.01229,561.89361 11.116841,681.51118 10.673292,921.40692 250.12931,1041.6889 490.02476,922.07131 490.46831,682.17557 251.01229,561.89361 Z m -0.75094,95.11208 0,0.006 c 3.99286,0 8.03167,0.28821 12.10163,0.85038 43.41334,5.99232 73.3718,43.17854 66.85815,83.12318 -2.99857,18.39325 -13.30967,34.2201 -27.68564,45.28868 l 27.78878,160.30317 -78.24183,0 -1.12848,0 -78.13868,0 27.68769,-160.30317 c -20.48073,-15.826 -31.84252,-40.87373 -27.58456,-66.99625 5.90199,-36.20077 39.74346,-62.17508 78.34294,-62.27169 z"
        id="path4140"
        inkscape:connector-curvature="0" />
