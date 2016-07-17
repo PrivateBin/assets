@@ -17,10 +17,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="icon.svg"
-   inkscape:export-filename="D:\Users\***REMOVED***\GitHub\assets\images\icon.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="iconSmall.svg"
+   inkscape:export-filename="D:\Users\***REMOVED***\GitHub\assets\images\iconSmall32.png"
+   inkscape:export-xdpi="5.7600002"
+   inkscape:export-ydpi="5.7600002">
   <defs
      id="defs4">
     <linearGradient
@@ -220,7 +220,7 @@
      id="layer1"
      transform="translate(0,-552.36219)">
     <path
-       style="opacity:1;fill:url(#radialGradient7642);fill-opacity:1;stroke:#000000;stroke-width:10.45310456;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9316)"
+       style="opacity:1;fill:url(#radialGradient7642);fill-opacity:1;stroke:#000000;stroke-width:15.67965683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9316)"
        d="M 250.41797,3.1582031 23.300781,126.23828 22.880859,373.07812 249.58203,496.8418 476.69922,373.76172 477.11914,126.92188 250.41797,3.1582031 Z m -0.71094,97.8652369 0,0.006 c 3.78018,0 7.60386,0.29655 11.45703,0.875 41.10089,6.16576 69.46357,44.42839 63.29688,85.52929 -2.83885,18.92566 -12.60072,35.21064 -26.21094,46.59961 l 26.30859,164.94336 -74.07421,0 -1.06836,0 -73.97657,0 26.21289,-164.94336 c -19.38981,-16.28409 -30.1464,-42.05687 -26.11523,-68.93554 5.58761,-37.24865 37.62649,-63.97482 74.16992,-64.07422 z"
        transform="matrix(0.95665359,0,0,0.95665359,10.836603,563.19879)"
        id="path4140"
