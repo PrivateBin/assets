@@ -49,13 +49,11 @@
     <radialGradient
        xlink:href="#linearGradient7636"
        id="radialGradient7642"
-       cx="250"
-       cy="250.00003"
-       fx="250"
-       fy="250.00003"
-       r="229.85291"
-       gradientTransform="matrix(1.3983125,1.4831815e-7,-1.507182e-7,1.4209396,-99.578086,-105.23497)"
-       gradientUnits="userSpaceOnUse"
+       cx="50%"
+       cy="50%"
+       fx="50%"
+       fy="50%"
+       r="40%"
        spreadMethod="pad" />
     <filter
        style="color-interpolation-filters:sRGB;"
