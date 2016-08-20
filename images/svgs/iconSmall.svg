@@ -58,7 +58,6 @@
        cy="50%"
        fx="50%"
        fy="50%"
-       r="40%"
        spreadMethod="pad" />
     <filter
        inkscape:menu-tooltip="Pressed metal with a rolled edge"
