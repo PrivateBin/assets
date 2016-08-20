@@ -1,3 +1,3 @@
 # ![PrivateBin](images/preview/logoSmall.png) assets
 
-Contain all images created for PrivateBin.
+Contains all images created for PrivateBin.
