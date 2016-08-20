@@ -133,6 +133,20 @@
          in2="result91"
          id="feBlend9338" />
     </filter>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="150.00683"
+       height="75.64963"
+       patternTransform="translate(-105.5802,590.28444)"
+       id="pattern9832">
+      <rect
+         y="2.7309999"
+         x="2.7309999"
+         height="70.18763"
+         width="144.54483"
+         id="rect9830"
+         style="opacity:1;fill:#ebee00;fill-opacity:0.69724767;fill-rule:nonzero;stroke:#000000;stroke-width:5.46199989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -142,7 +156,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.439"
-     inkscape:cx="-39.190027"
+     inkscape:cx="112.65153"
      inkscape:cy="278.54534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -180,12 +194,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
         <dc:rights>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:creator>
