@@ -16,7 +16,7 @@
    viewBox="0 0 2500 500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="logo.svg"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18"
@@ -59,7 +59,6 @@
        cy="50%"
        fx="50%"
        fy="50%"
-       r="40%"
        spreadMethod="pad" />
     <filter
        inkscape:menu-tooltip="Pressed metal with a rolled edge"
@@ -152,7 +151,7 @@
      units="px"
      borderlayer="false"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1918"
+     inkscape:window-width="1914"
      inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -224,7 +223,7 @@
    style="letter-spacing:-10px"
    id="tspan4231">P</tspan><tspan
    id="tspan4391"
-   style="letter-spacing:10px">r</tspan><tspan
+   style="letter-spacing:10.04px">r</tspan><tspan
    style="letter-spacing:7px"
    id="tspan4381">i</tspan><tspan
    style="letter-spacing:-7px"
