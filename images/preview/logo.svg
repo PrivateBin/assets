@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.2"
-   width="2500"
-   height="500"
+   version="1.1"
+   id="svg2"
    viewBox="0 0 2500 500"
-   id="svg2">
+   height="500"
+   width="2500">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient7636">
       <stop
          id="stop7664"
-         style="stop-color:#ffab00;stop-opacity:1"
-         offset="0" />
+         offset="0"
+         style="stop-color:#ffab00;stop-opacity:1" />
       <stop
-         id="stop4188"
          style="stop-color:#ffa500;stop-opacity:1"
-         offset="0.20623536" />
+         offset="0.20623536"
+         id="stop4188" />
       <stop
          id="stop4190"
-         style="stop-color:#ffab00;stop-opacity:1"
-         offset="0.2469174" />
+         offset="0.2469174"
+         style="stop-color:#ffab00;stop-opacity:1" />
       <stop
          id="stop7666"
-         style="stop-color:#ff8800;stop-opacity:1"
-         offset="1" />
+         offset="1"
+         style="stop-color:#ff8800;stop-opacity:1" />
     </linearGradient>
     <linearGradient
+       osb:paint="solid"
        id="linearGradientBaseColor">
       <stop
          id="stop7622"
-         style="stop-color:#fcff00;stop-opacity:1"
-         offset="0" />
+         offset="0"
+         style="stop-color:#fcff00;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
-       cx="0.5"
-       cy="0.5"
-       r="0.60000002"
-       fx="0.5"
-       fy="0.5"
+       spreadMethod="pad"
+       r="60%"
+       fy="50%"
+       fx="50%"
+       cy="50%"
+       cx="50%"
        id="radialGradientSpreadPad"
-       xlink:href="#linearGradient7636"
-       spreadMethod="pad" />
+       xlink:href="#linearGradient7636" />
     <filter
-       color-interpolation-filters="sRGB"
-       id="filterMetal">
+       id="filterMetal"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur9318"
          stdDeviation="3"
          result="result1" />
       <feBlend
-         in2="result1"
-         mode="multiply"
+         id="feBlend9320"
          in="result1"
+         mode="multiply"
          result="result5"
-         id="feBlend9320" />
+         in2="result1" />
       <feGaussianBlur
          id="feGaussianBlur9322"
          stdDeviation="1"
          result="result6"
          in="result5" />
       <feComposite
-         in2="result5"
+         id="feComposite9324"
          operator="xor"
          in="result6"
-         result="result8"
-         id="feComposite9324" />
+         in2="result5"
+         result="result8" />
       <feComposite
+         id="feComposite9326"
          in2="result8"
          operator="xor"
-         in="result6"
          result="fbSourceGraphic"
-         id="feComposite9326" />
+         in="result6" />
       <feSpecularLighting
          id="feSpecularLighting9328"
          specularExponent="55"
@@ -95,31 +95,31 @@
            x="-5000" />
       </feSpecularLighting>
       <feComposite
-         in2="fbSourceGraphic"
+         id="feComposite9332"
          operator="in"
-         in="result1"
          result="result2"
-         id="feComposite9332" />
+         in="result1"
+         in2="fbSourceGraphic" />
       <feComposite
-         in2="result2"
-         operator="arithmetic"
-         k1="0"
-         k2="2"
-         k3="1"
          k4="0"
-         in="fbSourceGraphic"
+         k1="0"
+         id="feComposite9334"
+         in2="result2"
+         k3="1"
+         k2="2"
+         operator="arithmetic"
          result="result4"
-         id="feComposite9334" />
+         in="fbSourceGraphic" />
       <feComposite
-         in2="result4"
+         id="feComposite9336"
+         result="result91"
          operator="in"
          in="result4"
-         result="result91"
-         id="feComposite9336" />
+         in2="result4" />
       <feBlend
+         id="feBlend9338"
          in2="result91"
-         mode="darken"
-         id="feBlend9338" />
+         mode="darken" />
     </filter>
   </defs>
   <metadata
@@ -145,47 +145,47 @@
      transform="translate(0,-552.36219)"
      id="layer1">
     <path
-       d="M 250.41797,3.1582031 23.300781,126.23828 22.880859,373.07812 249.58203,496.8418 476.69922,373.76172 477.11914,126.92188 z m -0.71094,97.8652369 0,0.006 c 3.78018,0 7.60386,0.29655 11.45703,0.875 41.10089,6.16576 72.18274,40.63955 66.38414,70.45619 -5.7986,29.81664 -33.27979,55.97822 -40.0849,61.67271 -6.80511,5.69448 37.09529,164.94336 37.09529,164.94336 l -74.07421,0 -1.06836,0 -73.97657,0 c 0,0 46.18084,-156.80132 36.48594,-164.94336 -9.69491,-8.14204 -41.19767,-36.87188 -36.38828,-68.93554 4.80939,-32.06366 37.62649,-63.97482 74.16992,-64.07422 z"
-       transform="matrix(0.95665359,0,0,0.95665359,10.836603,563.19879)"
        id="PrivateBinIcon"
-       style="fill:url(#radialGradientSpreadPad);fill-opacity:1;stroke:#000000;stroke-width:15.67965698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filterMetal)" />
+       transform="matrix(0.95665359,0,0,0.95665359,10.836603,563.19879)"
+       d="M 250.41797,3.1582031 23.300781,126.23828 22.880859,373.07812 249.58203,496.8418 476.69922,373.76172 477.11914,126.92188 Z m -0.71094,97.8652369 0,0.006 c 3.78018,0 7.60386,0.29655 11.45703,0.875 41.10089,6.16576 72.18274,40.63955 66.38414,70.45619 -5.7986,29.81664 -33.27979,55.97822 -40.0849,61.67271 -6.80511,5.69448 37.09529,164.94336 37.09529,164.94336 l -74.07421,0 -1.06836,0 -73.97657,0 c 0,0 46.18084,-156.80132 36.48594,-164.94336 -9.69491,-8.14204 -41.19767,-36.87188 -36.38828,-68.93554 4.80939,-32.06366 37.62649,-63.97482 74.16992,-64.07422 z"
+       style="opacity:1;fill:url(#radialGradientSpreadPad);fill-opacity:1;stroke:#000000;stroke-width:15.67965698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filterMetal)" />
     <text
-       x="1510.8896"
-       y="949.38812"
        id="PrivateBinTitle"
-       xml:space="preserve"
-       style="font-size:28.61415672px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff920f;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filterMetal);font-family:sans-serif"><tspan
-         x="1510.8896"
-         y="949.38812"
-         dx="0"
+       y="949.38812"
+       x="1510.8896"
+       style="font-style:normal;font-weight:normal;font-size:28.61415672px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#FF920F;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filterMetal)"
+       xml:space="preserve"><tspan
          rotate="0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan4175"
-         style="font-size:412.04385376px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;letter-spacing:-2.14999962px;word-spacing:0px;text-anchor:middle;fill:#ff920f;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:412.04385376px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:-2.14999962px;word-spacing:0px;text-anchor:middle;fill:#FF920F;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="949.38812"
+         x="1510.8896"
+         id="tspan4175"><tspan
            id="tspan4215"
            style="letter-spacing:0px"><tspan
    id="tspan4231"
    style="letter-spacing:-10px">P</tspan><tspan
-   id="tspan4391"
-   style="letter-spacing:10px">r</tspan><tspan
+   style="letter-spacing:10px"
+   id="tspan4391">r</tspan><tspan
    id="tspan4381"
    style="letter-spacing:7px">i</tspan><tspan
    id="tspan4393"
    style="letter-spacing:-7px">v</tspan><tspan
    id="tspan4399"
    style="letter-spacing:-5px">a</tspan><tspan
-   id="tspan4403"
-   style="letter-spacing:5px">t</tspan><tspan
+   style="letter-spacing:5px"
+   id="tspan4403">t</tspan><tspan
    id="tspan4229"
    style="letter-spacing:15px">e</tspan>Bin</tspan></tspan></text>
     <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;letter-spacing:0px;word-spacing:0px"
        id="flowRoot4219"
-       xml:space="preserve"
-       style="font-size:12.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion4221"><rect
-           width="188.69284"
-           height="45.582752"
-           x="1808.3064"
            y="250"
+           x="1808.3064"
+           height="45.582752"
+           width="188.69284"
            id="rect4223" /></flowRegion><flowPara
          id="flowPara4225" /></flowRoot>  </g>
 </svg>
