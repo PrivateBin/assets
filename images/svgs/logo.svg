@@ -16,9 +16,8 @@
    viewBox="0 0 2500 500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="D:\Users\***REMOVED***\GitHub\assets\images\preview\logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -55,11 +54,11 @@
        inkscape:collect="always"
        xlink:href="#linearGradient7636"
        id="radialGradient7642"
-       cx="260.62885"
-       cy="239.80463"
-       fx="260.62885"
-       fy="239.80463"
-       r="227.30421"
+       cx="50%"
+       cy="50%"
+       fx="50%"
+       fy="50%"
+       r="40%"
        spreadMethod="pad"
        gradientTransform="scale(0.95921841,1.0425154)"
        gradientUnits="userSpaceOnUse" />
@@ -207,18 +206,18 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.50876333"
      inkscape:cx="1282.4406"
-     inkscape:cy="547.06682"
+     inkscape:cy="311.20076"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      borderlayer="false"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1918"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:snap-center="true"
      inkscape:snap-object-midpoints="true"
      showguides="true"
@@ -243,7 +242,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
         <dc:rights>
@@ -263,7 +262,7 @@
        style="opacity:1;fill:url(#radialGradient7642);fill-opacity:1;stroke:#000000;stroke-width:15.67965698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter9316)"
        d="M 250.41797,3.1582031 23.300781,126.23828 22.880859,373.07812 249.58203,496.8418 476.69922,373.76172 477.11914,126.92188 Z m -0.71094,97.8652369 0,0.006 c 3.78018,0 7.60386,0.29655 11.45703,0.875 41.10089,6.16576 72.18274,40.63955 66.38414,70.45619 -5.7986,29.81664 -33.27979,55.97822 -40.0849,61.67271 -6.80511,5.69448 37.09529,164.94336 37.09529,164.94336 l -74.07421,0 -1.06836,0 -73.97657,0 c 0,0 46.18084,-156.80132 36.48594,-164.94336 -9.69491,-8.14204 -41.19767,-36.87188 -36.38828,-68.93554 4.80939,-32.06366 37.62649,-63.97482 74.16992,-64.07422 z"
        transform="matrix(0.95665359,0,0,0.95665359,10.836603,563.19879)"
-       id="path4140"
+       id="PrivateBinIcon"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccczzcccczzcc" />
     <text
@@ -271,13 +270,14 @@
        style="font-style:normal;font-weight:normal;font-size:28.61415672px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffce1c;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4177)"
        x="1510.8896"
        y="949.38812"
-       id="text4173"
-       sodipodi:linespacing="125%"><tspan
+       id="PrivateBinTitle"
+       sodipodi:linespacing="125%"
+       inkscape:label="#PrivateBinTitle"><tspan
          sodipodi:role="line"
          id="tspan4175"
          x="1510.8896"
          y="949.38812"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:412.04385376px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:-2.14999962px;word-spacing:0px;text-anchor:middle;fill:#ffce1c;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:412.04385376px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:-2.14999962px;word-spacing:0px;text-anchor:middle;fill:#FFDD4D;fill-opacity:1;stroke:#000000;stroke-width:13;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          dx="0"
          rotate="0 0 0 0 0 0 0 0 0 0 0"><tspan
            style="letter-spacing:0px"
@@ -306,5 +306,5 @@
            height="45.582752"
            x="1808.3064"
            y="250" /></flowRegion><flowPara
-         id="flowPara4225"></flowPara></flowRoot>  </g>
+         id="flowPara4225" /></flowRoot>  </g>
 </svg>
