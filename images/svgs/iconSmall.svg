@@ -16,10 +16,10 @@
    viewBox="0 0 500 500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
    sodipodi:docname="iconSmall.svg"
-   inkscape:export-xdpi="5.7600002"
-   inkscape:export-ydpi="5.7600002">
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:export-filename="../preview/iconSmall.png">
   <defs
      id="defs4">
     <linearGradient
@@ -58,7 +58,7 @@
        cy="50%"
        fx="50%"
        fy="50%"
-       r="40%"
+	   r="60%"
        spreadMethod="pad" />
     <filter
        inkscape:menu-tooltip="Pressed metal with a rolled edge"
@@ -141,7 +141,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.439"
-     inkscape:cx="-39.190027"
+     inkscape:cx="168.14674"
      inkscape:cy="278.54534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
