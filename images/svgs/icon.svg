@@ -19,7 +19,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="icon.svg"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   inkscape:export-filename="../preview/Icon.png">
   <defs
      id="defs4">
     <linearGradient
@@ -58,6 +59,7 @@
        cy="50%"
        fx="50%"
        fy="50%"
+       r="60%"
        spreadMethod="pad" />
     <filter
        inkscape:menu-tooltip="Pressed metal with a rolled edge"
@@ -140,8 +142,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.439"
-     inkscape:cx="-230.64242"
-     inkscape:cy="250.74826"
+     inkscape:cx="195.65091"
+     inkscape:cy="240.84758"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -177,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
         <dc:rights>
